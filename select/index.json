@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "悲しみはバスに乗って",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2025-12-11T12:25:53.448461Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "悲しみはバスに乗って",
+      "artist": "Macaroni Empitsu",
+      "has_synced": false,
+      "path": "select/01_悲しみはバスに乗って_Macaroni_Empitsu.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "悲しみはバスに乗って",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/02_悲しみはバスに乗って_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "悲しみはバスに乗って - Kanashimihabasuninotte",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/03_悲しみはバスに乗って_-_Kanashimihabasuninotte_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悲しみはバスに乗って",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_悲しみはバスに乗って_マカロニえんぴつ.txt"
+    }
+  ]
+}
